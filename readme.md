@@ -72,3 +72,13 @@ MeiCB基板とキースイッチをハンダ付けします。
 
 キーキャップを取り付けます。  
 <img src="https://github.com/takashicompany/meicb/blob/master/images/build/IMG_2008.jpg?raw=true" width="600px"/>
+
+### 3. ファームウェアの書き込み
+
+XIAO RP2040上のUSB口の反対側にある、Bと書かれたボタンを押しながらUSBを繋ぐとファームウェア書き込み状態にできます。
+
+ファームウェアは[こちら](https://github.com/takashicompany/meicb/tree/master/firmware)にございます。
+
+RPI-RP2と書かれたドライブに.uf2をドロップすると、書き込まれます。
+
+ソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/meicb/v1/keyboards/takashicompany/meicb)です。

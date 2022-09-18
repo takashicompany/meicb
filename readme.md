@@ -82,3 +82,5 @@ XIAO RP2040上のUSB口の反対側にある、Bと書かれたボタンを押�
 RPI-RP2と書かれたドライブに.uf2をドロップすると、書き込まれます。
 
 ソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/meicb/v1/keyboards/takashicompany/meicb)です。
+
+Remap等への対応は後日予定しております。

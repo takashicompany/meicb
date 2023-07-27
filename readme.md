@@ -83,4 +83,7 @@ RPI-RP2と書かれたドライブに.uf2をドロップすると、書き込ま
 
 ソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/meicb/v1/keyboards/takashicompany/meicb)です。
 
+![image](https://github.com/takashicompany/meicb/assets/4215759/c3c20c64-2383-4cdd-9aa4-045714598b3c)
+
+
 Remap等への対応は後日予定しております。
